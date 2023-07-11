@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(185, 170, 199);
+}
+
+.container {
+      max-width: 400px;
+      margin: 0 auto;
+      margin-top: 100px;
+    }
+    .text-center {
+      text-align: center;
+    }
+    .login-form {
+      margin-top: 10px;
+      
+    }
+    .login-form .btn {
+      width: 100%;
+      
+    }
+    .message {
+      margin-top: 20px;
+      text-align: center;
+    }
